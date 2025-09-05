@@ -1,0 +1,10 @@
+
+
+User-agent: *
+Allow: /
+
+# Bloquear carpetas internas que no quieres indexar
+Disallow: /assets/
+
+# Ubicación del sitemap
+Sitemap: https://arytechpulse.work/sitemap.xml
