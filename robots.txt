@@ -7,4 +7,4 @@ Allow: /
 Disallow: /assets/
 
 # Ubicación del sitemap
-Sitemap: https://arytechpulse.work/sitemap.xml
+Sitemap: https://arytecno.com/sitemap.xml
