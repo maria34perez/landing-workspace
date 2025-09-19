@@ -1,8 +1,7 @@
 
-
 {
-  "name": "ARYTECHNO - Google Workspace con IA",
-  "short_name": "ARYTECHNO",
+  "name": "ARYTECNO - Google Workspace con IA",
+  "short_name": "ARYTECNO",
   "start_url": "/index.html",
   "scope": "/",
   "display": "standalone",
